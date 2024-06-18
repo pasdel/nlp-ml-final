@@ -1,0 +1,573 @@
+Content,proba,result,CurElementMark,SpecialSymbolsCount,WordsCount,SymbolCount,Lowercase,Uppercase,LastSymbolPd,FirstKeyWord,FullBold,FullItalic,Alignment,KeepLinesTogether,KeepWithNext,LeftIndentation,LineSpacing,NoSpaceBetweenParagraphsOfSameStyle,OutlineLevel,PageBreakBefore,RightIndentation,SpaceAfter,SpaceBefore,SpecialIndentation,FirstKeyWord_missed,LastSymbolPd_missed
+Введение,0.958783518934199,*,b1,0,1.0,8.0,False,False,.,listLevel1,True,False,Center,True,False,0,2.5,True,Level1,True,0,0.0,0.0,-35.45,True,True
+ВВЕДЕНИЕ,0.9351578726309246,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.15,False,Level1,False,0,0.0,12.0,0,True,True
+ЗАКЛЮЧЕНИЕ,0.9351578726309246,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.15,False,Level1,False,0,0.0,12.0,0,True,True
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ,0.9104614103072018,*,b1,0,3.0,32.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.15,False,Level1,False,0,0.0,12.0,0,True,True
+РЕФЕРАТ,0.9416431652848694,*,b1,0,1.0,7.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0.0,0.0,0,True,True
+ВВЕДЕНИЕ,0.9492369560712258,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,True,0,0.0,0.0,0,True,True
+ЗАКЛЮЧЕНИЕ,0.9492369560712258,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,True,0,0.0,0.0,0,True,True
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ,0.9216727868314556,*,b1,0,3.0,32.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,True,0,0.0,0.0,0,True,True
+ВВЕДЕНИЕ,0.939199128006846,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,6,0,True,True
+ЗАКЛЮЧЕНИЕ,0.939199128006846,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,6,0,True,True
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ,0.9150208479962767,*,b1,0,3.0,32.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,6,0,True,True
+Содержание,0.9185806158930588,*,b1,0,1.0,10.0,False,False,.,listLevel1,True,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,True,True
+СОДЕРЖАНИЕ,0.952337412560454,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,24,0,True,True
+ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ,0.9200323141519822,*,b1,0,3.0,21.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,24,0,True,True
+ВВЕДЕНИЕ,0.952337412560454,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,24,0,True,True
+ЗАКЛЮЧЕНИЕ,0.9556338803128631,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,0,0,True,True
+ПРИЛОЖЕНИЕ А,0.938032881549744,*,b1,0,2.0,12.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,24,0,True,True
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ,0.9290677214478373,*,b1,0,3.0,32.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,0,0,True,True
+разработка его программы,0.9296589767009567,*,b1,0,3.0,24.0,False,True,.,listLevel1,True,False,Justify,False,False,0,1.15,False,BodyText,False,0,0,0,0,True,True
+РЕФЕРАТ,0.9238316025677029,*,b1,0,1.0,7.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,3.15,9.9,24,-35.45,True,True
+ВВЕДЕНИЕ,0.9141359083621974,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,2,False,Level1,False,3.15,6,24,-35.45,True,True
+ЗАКЛЮЧЕНИЕ,0.9683334485144052,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6,24,-35.45,True,True
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ,0.9069418196065732,*,b1,0,3.0,32.0,True,False,.,listLevel1,True,False,Center,True,True,1.85,1.5,False,Level1,False,0,24.9,24,-35.45,True,True
+"о практике производственной, научно-исследовательской",0.9708405810933842,*,b1,2,4.0,53.0,False,True,.,listLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0,0,-35.45,True,True
+РЕФЕРАТ,0.9096139829556572,*,b1,0,1.0,7.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,BodyText,False,0,0,0,-35,True,True
+СОДЕРЖАНИЕ,0.9072317725777176,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,BodyText,False,0,0,0,-35,True,True
+ВВЕДЕНИЕ,0.9072317725777176,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,BodyText,False,0,0,0,-35,True,True
+СОДЕРЖАНИЕ,0.9855462554608235,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+СПИСОК СОКРАЩЕНИЙ И УСЛОВНЫХ ОБОЗНАЧЕНИЙ,0.9528682385343403,*,b1,0,5.0,40.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ,0.9738493377715809,*,b1,0,3.0,21.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+ВВЕДЕНИЕ,0.9855462554608235,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+package main,0.912556231673924,-,b1,0,2.0,12.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+"""fmt""",0.9010461359554561,-,b1,1,1.0,5.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+return,0.9433726035286666,-,b1,0,1.0,6.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+return &task,0.912556231673924,-,b1,0,2.0,12.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+return nil,0.9343278802308035,-,b1,0,2.0,10.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+package main,0.912556231673924,-,b1,0,2.0,12.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+"""fmt""",0.9010461359554561,-,b1,1,1.0,5.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+"""log""",0.9010461359554561,-,b1,1,1.0,5.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+"""os""",0.9010461359554561,-,b1,1,1.0,4.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+return,0.9433726035286666,-,b1,0,1.0,6.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+return,0.9433726035286666,-,b1,0,1.0,6.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+return nil,0.9343278802308035,-,b1,0,2.0,10.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+return nil,0.9343278802308035,-,b1,0,2.0,10.0,False,True,.,listLevel1,True,False,Left,False,False,0,14.25,False,BodyText,False,0,0,0,0,True,True
+ЗАКЛЮЧЕНИЕ,0.9855462554608235,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ,0.971501278457486,*,b1,0,3.0,32.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+"о практике производственной, научно-исследовательской",0.9252875443748996,-,b1,2,4.0,53.0,False,True,.,listLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0,0,-35.65,True,True
+о научно-исследовательской работе,0.9583998925580212,-,b1,1,3.0,33.0,False,True,.,listLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0,0,-35.65,True,True
+разработка его программы,0.9296589767009567,-,b1,0,3.0,24.0,False,True,.,listLevel1,True,False,Justify,False,False,0,1.15,False,BodyText,False,0,0,0,0,True,True
+РЕФЕРАТ,0.9852302239413442,*,b1,0,1.0,7.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+СОДЕРЖАНИЕ,0.9855462554608235,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+ВВЕДЕНИЕ,0.9855462554608235,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+заключение,0.9992242680282384,*,b1,0,1.0,10.0,False,True,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ,0.971501278457486,*,b1,0,3.0,32.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+по научно-исследовательской работе,0.9583998925580212,-,b1,1,3.0,34.0,False,True,.,listLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0,0,-35.65,True,True
+(Университет ИТМО),0.9124418091084371,-,b1,2,2.0,18.0,False,False,.,listLevel1,True,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,True,True
+СОДЕРЖАНИЕ,0.9489379450511364,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,True,True
+научно-исследовательской работе,0.9461211982820128,-,b1,1,2.0,31.0,False,True,.,listLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0,0,-35.65,True,True
+"о практике производственной, научно-исследовательской",0.9252875443748996,-,b1,2,4.0,53.0,False,True,.,listLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0,0,-35.65,True,True
+ВВЕДЕНИЕ,0.9816599507264819,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+ЗАКЛЮЧЕНИЕ,0.9816599507264819,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ,0.9639504943131544,*,b1,0,3.0,32.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,0,0,True,True
+"о практике производственной, научно-исследовательской",0.9252875443748996,-,b1,2,4.0,53.0,False,True,.,listLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0,0,-35.65,True,True
+ВВЕДЕНИЕ,0.9072317725777176,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,BodyText,False,0,0,0,0,True,True
+ЗАКЛЮЧЕНИЕ,0.9072317725777176,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,BodyText,False,0,0,0,0,True,True
+разработка его программы,0.9296589767009567,-,b1,0,3.0,24.0,False,True,.,listLevel1,True,False,Justify,False,False,0,1.15,False,BodyText,False,0,0,0,0,True,True
+ВВЕДЕНИЕ,0.9593807352732946,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6,24,0,True,True
+ЗАКЛЮЧЕНИЕ,0.9593807352732946,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6,24,0,True,True
+СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ,0.9279923425486426,*,b1,0,3.0,32.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6,24,0,True,True
+федеральное государственное автономное образовательное учреждение высшего образования,0.9870576870127579,-,b1,0,7.0,85.0,False,True,.,listLevel1,True,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,True,True
+(Университет ИТМО),0.9124418091084371,-,b1,2,2.0,18.0,False,False,.,listLevel1,True,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,True,True
+СОДЕРЖАНИЕ,0.9489379450511364,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,True,True
+ВВЕДЕНИЕ,0.9835627823706709,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,12,0,True,True
+ЗАКЛЮЧЕНИЕ,0.9835627823706709,*,b1,0,1.0,10.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,0,12,0,True,True
+о практике научно-исследовательской,0.9554030102196014,-,b1,1,3.0,35.0,False,True,.,listLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0,0,-35.65,True,True
+РЕФЕРАТ,0.9096139829556572,*,b1,0,1.0,7.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,BodyText,False,0,0,0,0,True,True
+ВВЕДЕНИЕ,0.9072317725777176,*,b1,0,1.0,8.0,True,False,.,listLevel1,True,False,Center,True,True,0,1.5,False,BodyText,False,0,0,0,0,True,True
+1 ОСНОВНЫЕ ПОЛОЖЕНИЯ ПРАКТИКИ,0.5432097821841462,*,b1,0,4.0,29.0,True,False,.,TitleLevel1,True,False,Left,True,True,35.25,1.5,False,BodyText,True,0.0,0.0,0.0,0,False,True
+2 ОПИСАНИЕ КРИТЕРИЕВ,0.5187127460743909,*,b1,0,3.0,20.0,True,False,.,TitleLevel1,True,False,Left,True,True,35.25,1.5,False,BodyText,True,0.0,0.0,0.0,0,False,True
+3 АНАЛИЗ ИССЛЕДОВАНИЙ,0.5187127460743909,*,b1,0,3.0,21.0,True,False,.,TitleLevel1,True,False,Left,True,True,35.25,1.5,False,BodyText,True,0.0,0.0,0.0,0,False,True
+4 ПЛАНИРОВАНИЕ МАГИСТЕРСКОГО ИССЛЕДОВАНИЯ,0.5338796981653174,*,b1,0,4.0,41.0,True,False,.,TitleLevel1,True,False,Left,True,True,35.25,1.5,False,BodyText,True,0.0,0.0,0.0,0,False,True
+1 Направление исследования,0.804098766184961,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Left,True,True,36,1.15,False,BodyText,False,0,6.0,8.0,35.4,False,True
+2 Источники информации по теме исследования,0.7939845717901877,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Left,True,True,35.4,1.15,False,BodyText,False,0,6.0,8.0,-35.4,False,True
+3 Определение методологии исследования,0.7930927717823978,*,b1,0,4.0,38.0,False,False,.,TitleLevel1,True,False,Left,True,True,35.4,1.15,False,BodyText,False,0,6.0,8.0,-35.4,False,True
+4 Требования к приложению,0.8043403093047098,*,b1,0,4.0,25.0,False,False,.,TitleLevel1,True,False,Left,True,True,35.4,1.15,False,BodyText,False,0,6.0,8.0,-35.4,False,True
+2024 г.,0.2456785630435147,-,b1,1,2.0,7.0,False,True,.,TitleLevel1,False,False,Center,False,False,0,1,False,BodyText,False,-0.65,10.0,0.0,0,False,False
+1 ОСНОВНАЯ КОНЦЕПЦИЯ РЕАЛИЗУЕМОГО ПРОГРАММНО-АППАРАТНОГО КОМПЛЕКСА,0.2934303736006159,*,b1,1,6.0,66.0,True,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.45,False,True
+2 МЕТОДЫ ПРОЕКТИРОВАНИЯ АРХИТЕКТУРЫ ОБЛАЧНОГО СЕРВИСА,0.41001678939595326,*,b1,0,6.0,53.0,True,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.45,False,True
+3 АНАЛИЗ ИНСТРУМЕНТОВ И МЕТОДОВ ДЛЯ РЕАЛИЗАЦИИ АНАЛИТИЧЕСКОЙ МОДЕЛИ И ИССЛЕДОВАНИЯ ДАННЫХ,0.3277273664179494,*,b1,0,12.0,89.0,True,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.45,False,True
+2024,0.7942423748761289,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,True,False,Center,False,False,0,1.15,False,BodyText,False,0.25,0.0,0.0,0,False,True
+1 Направление исследования,0.6118840304254312,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,False,False,Left,True,True,0,1.5,False,BodyText,False,0.25,6.0,0.0,-36,False,True
+2 Анализ технологических решений,0.8163735541447398,*,b1,0,4.0,32.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,BodyText,False,0.25,6.0,0.0,-36,False,True
+3 Описание исследования,0.7986287983919178,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,BodyText,False,0.25,0.0,0.0,-36,False,True
+2024,0.7877705398886997,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,True,False,Center,False,False,-22.5,1.5,False,BodyText,False,0,8.0,0.0,18,False,True
+1 Направление исследования,0.7265653974546323,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.45,False,True
+2 Источники информации по теме исследования,0.7258326591315668,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.45,False,True
+3 Описание исследования,0.5586856807555949,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.25,False,True
+2024,0.8753792079147449,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,True,False,Center,False,False,0,1,True,BodyText,False,0,0.0,0.0,-35.45,False,True
+1 Направление исследования,0.7967744933894353,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0.25,0.0,0.0,-35.4,False,True
+2 Источники информации по теме исследования,0.8053501550105141,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0.25,0.0,0.0,-35.4,False,True
+3 Описание программы исследования,0.8054108666211989,*,b1,0,4.0,33.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0.25,0.0,0.0,-35.4,False,True
+4 Программа исследования,0.7863793324136181,*,b1,0,3.0,24.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0.25,0.0,0.0,-35.4,False,True
+1 Направление исследования,0.9792701621912899,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.15,False,Level1,False,0,0.0,12.0,-35.45,False,True
+2 Анализ источников информации по теме исследования,0.977613965057496,*,b1,0,7.0,51.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.15,False,Level1,False,0,0.0,12.0,-35.45,False,True
+3 Описание исследования,0.9779328622771047,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.15,False,Level1,False,0,0.0,12.0,-35.45,False,True
+1 Задачи,0.970428276552312,*,b1,0,2.0,8.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,True,0,0.0,0.0,-35.4,False,True
+2 Изучение существующей информационной системы,0.940400711999741,*,b1,0,5.0,46.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,True,0,0.0,0.0,-35.4,False,True
+3 Общее описание системы,0.878129751649694,*,b1,0,4.0,24.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,True,0,0.0,0.0,-35.4,False,True
+4 Формирование требований,0.8788864666850785,*,b1,0,3.0,25.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,True,0,0.0,0.0,-35.4,False,True
+5 Описание новизны и значимости предполагаемых результатов работы,0.8620072064696502,*,b1,0,8.0,65.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,True,0,0.0,0.0,-35.4,False,True
+"6 Описание методов исследования, которые предполагается использовать в ходе исследования",0.8107411893480873,*,b1,1,10.0,88.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,True,0,0.0,0.0,-35.45,False,True
+"7 Описание, как будет доказываться степень достоверности полученных результатов",0.6483038333467798,*,b1,1,9.0,79.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,True,0,0.0,0.0,-35.4,False,True
+8 Разработка плана исследования,0.9538332343692049,*,b1,0,4.0,31.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,True,0,0.0,0.0,-35.45,False,True
+1 Направление исследования,0.5736393380659849,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,10.0,0.0,-45,False,True
+2 Источники информации по теме исследования,0.5695966271204571,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,10.0,0.0,-45,False,True
+3 Описание исследования,0.5586856807555949,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,10.0,0.0,-45,False,True
+2024,0.42511302950610286,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,0,1,False,BodyText,False,0,0.0,0,0,False,True
+1 Обзор литературы,0.7513446751589192,*,b1,0,3.0,18.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,Level1,False,0,6.0,2.95,-35.4,False,True
+2 Описание исследования,0.743237847278498,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,Level1,False,0,6.0,2.95,-35.4,False,True
+3 Выбор инструментов для сбора данных,0.8897476968743826,*,b1,0,6.0,37.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,Level1,False,0,6.0,2.95,-35.45,False,True
+4 План исследования,0.5506822667358201,*,b1,0,3.0,19.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0.05,1.5,False,Level1,False,0,6.0,2.95,-35.4,False,True
+1 Направление исследования,0.6469670239523188,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+2 Источники информации по теме исследования,0.6272685044251803,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+3 Описание исследования,0.6427074208228181,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+1 Анализ текущего состояния российского рынка труда в сфере информационных технологий,0.6981172561619561,*,b1,0,11.0,85.0,False,False,.,TitleLevel1,True,False,Justify,False,True,0,1.5,False,BodyText,False,0,0.0,0,-35.45,False,True
+2 Существующие методы и инструменты для оптимизации процесса найма в сфере информационных технологий,0.6680120654225945,*,b1,0,13.0,100.0,False,False,.,TitleLevel1,True,False,Justify,False,True,0,1.5,False,BodyText,False,0,0.0,0,-35.45,False,True
+3 Формулирование темы исследования на основании анализа предметной области,0.6553237598033151,*,b1,0,9.0,74.0,False,False,.,TitleLevel1,True,False,Justify,False,True,0,1.5,False,BodyText,False,0,0.0,0,-35.45,False,True
+2023,0.3739562428042703,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,30.25,1.07916666666667,False,BodyText,False,30.25,8.0,7.1,0,False,True
+1 Обзор предметной области,0.776539857266485,*,b1,0,4.0,26.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.45,False,True
+2 Методы построения прогнозов с использованием временных рядов,0.7296361434368449,*,b1,0,8.0,62.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.45,False,True
+3 Сбор данных,0.7870711596760236,*,b1,0,3.0,13.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.45,False,True
+2024,0.42511302950610286,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,0,1,False,BodyText,False,0,0.0,0,0,False,True
+1 Анализ предметной области,0.9272144388183906,*,b1,0,4.0,27.0,False,False,.,TitleLevel1,True,False,Left,False,False,0,1.5,False,Level1,False,0,0.0,3.7,-35.45,False,True
+2 Проектирование системы,0.9211071678025601,*,b1,0,3.0,24.0,False,False,.,TitleLevel1,True,False,Left,False,False,0,1.5,False,Level1,False,0,0.0,3.7,-35.45,False,True
+3 Разработка,0.9352005797481598,*,b1,0,2.0,12.0,False,False,.,TitleLevel1,True,False,Left,False,False,0,1.5,False,Level1,False,0,0.0,3.7,-35.45,False,True
+2024,0.8219649158281824,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0.0,0,0,False,True
+1 Направление исследования,0.6469670239523188,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+2 Поиск и анализ мобильных приложение и тематических сервисов,0.6141056425657787,*,b1,0,9.0,61.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+3 Описание исследования,0.6263404421912024,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,True,True,35.4,1.5,False,BodyText,False,0,0.0,0,0,False,True
+1 НАПРАВЛЕНИЯ ИССЛЕДОВАНИЯ,0.8703029184710629,*,b1,0,3.0,26.0,True,False,.,TitleLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,0,0,False,True
+2 ОПИСАНИЕ ИССЛЕДОВАНИЯ,0.8687862443988696,*,b1,0,3.0,23.0,True,False,.,TitleLevel1,True,False,Center,True,True,0,1.5,False,Level1,False,0,6.0,0,0,False,True
+2024,0.6631006216211293,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,0,1,False,BodyText,False,0,0,0,0,False,True
+1 Анализ предметной области,0.9674370488922718,*,b1,0,4.0,27.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,False,0,6,24,-35.45,False,True
+2 Имплементация WebTransport в приложении,0.9603347509634594,*,b1,0,5.0,41.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,False,0,6,24,-35.45,False,True
+1 Анализ требований к архитектурному подходу,0.382992466514622,*,b1,0,6.0,44.0,False,False,.,TitleLevel1,True,False,Center,False,False,28.35,1.5,False,BodyText,True,28.35,36,0,0,False,True
+2 Анализ существующих методологий проектирования,0.39888374769119783,*,b1,0,5.0,48.0,False,False,.,TitleLevel1,True,False,Center,False,False,28.35,1.5,False,BodyText,True,28.35,36,0,0,False,True
+2024,0.39987273471134444,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,30.25,1,False,BodyText,False,30.25,0,7.1,0,False,True
+1 Формирование требований для разрабатываемого проекта,0.706156412502431,*,b1,0,6.0,54.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+2 План исследования и разработки приложения,0.705911432256714,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+1 План исследования,0.9694377176745755,*,b1,0,3.0,19.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+2 Набор данных,0.9755084685751139,*,b1,0,3.0,14.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+3 Анализ технологического стека,0.9646546460101838,*,b1,0,4.0,31.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+2024,0.43078768821874147,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,0,1.05,False,BodyText,False,0,8,0,0,False,True
+3 Описание исследования,0.5696083641676283,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,14,14,-35.45,False,True
+1 Направление исследования,0.5019651596532765,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+2 Источники информации по теме исследования,0.4481171916925472,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+3 Описание исследования,0.5247955935956956,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+2024,0.6631006216211293,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,0,1,False,BodyText,False,0,0,0,0,False,True
+1 Направление исследования,0.832862720174607,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,BodyText,False,0,6,24,-35.45,False,True
+2 Источники информации по теме исследования,0.8015185345826924,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,BodyText,False,0,6,24,-35.45,False,True
+3 Описание исследования,0.891208151565049,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,24,-35.45,False,True
+1 Исследование предметной области,0.98914844859772,*,b1,0,4.0,33.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+2 Большие языковые модели,0.9913934919442787,*,b1,0,4.0,25.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+3 Разработка веб-приложения,0.9630619788516991,*,b1,1,3.0,27.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+2023,0.43078768821874147,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,0,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+1 Направление исследования,0.5332040603815202,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Left,False,False,36,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+3 Описание исследования,0.5382056031817674,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,False,False,36,1.5,False,BodyText,False,0,0,0,0,False,True
+1 Определение тематики исследования,0.9773353799130553,*,b1,0,4.0,35.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,8,-35.45,False,True
+2 Источники информации по теме исследования,0.8991431404460165,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,10,20,-35.4,False,True
+3 Описание исследования,0.8942068985218987,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,10,20,-35.4,False,True
+1 НАПРАВЛЕНИЕ ИССЛЕДОВАНИЯ,0.37713457983625326,*,b1,0,3.0,26.0,True,False,.,TitleLevel1,True,False,Justify,True,True,14.15,1.5,False,BodyText,False,-30.35,0,0,-42.8,False,True
+2 ИСТОЧНИКИ ИНФОРМАЦИИ ПО ТЕМЕ ИССЛЕДОВАНИЯ,0.34952191036543817,*,b1,0,6.0,43.0,True,False,.,TitleLevel1,True,False,Justify,True,True,14.15,1.5,False,BodyText,False,-30.35,0,0,-42.8,False,True
+3 ОПИСАНИЕ ПРОГРАММЫ ИССЛЕДОВАНИЯ,0.3886314786592207,*,b1,0,4.0,33.0,True,False,.,TitleLevel1,True,False,Justify,True,True,50.15,1.5,False,BodyText,False,-30.35,0,0,-6.8,False,True
+4 ПРОГРАММА ИССЛЕДОВАНИЯ,0.39988831168879846,*,b1,0,3.0,24.0,True,False,.,TitleLevel1,True,False,Justify,True,True,14.15,1.5,False,BodyText,False,-30.35,0,0,-42.8,False,True
+2024,0.8336179025552458,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+1 Преимущества покупки книг онлайн,0.6442649199441076,*,b1,0,5.0,34.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+1 Методы прогнозирования,0.9919072662173345,*,b1,0,3.0,24.0,False,False,.,TitleLevel1,True,False,Left,True,True,35.45,1.5,False,Level1,False,0,0,0,0,False,True
+2 Достоверность результатов,0.9911340245320174,*,b1,0,3.0,27.0,False,False,.,TitleLevel1,True,False,Left,True,True,35.45,1.5,False,Level1,False,0,0,0,0,False,True
+3 Используемые данные,0.9919072662173345,*,b1,0,3.0,21.0,False,False,.,TitleLevel1,True,False,Left,True,True,35.45,1.5,False,Level1,False,0,0,0,0,False,True
+2024 г.,0.4637459025458872,-,b1,1,2.0,7.0,False,True,.,TitleLevel1,False,False,Center,False,False,0,1,False,BodyText,False,0,0,0,0,False,False
+1 НАПРАВЛЕНИЕ ИССЛЕДОВАНИЯ,0.9706965161336311,*,b1,0,3.0,26.0,True,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+2 СТЕПЕНЬ РАЗРАБОТАННОСТИ ТЕМЫ ИССЛЕДОВАНИЯ,0.9580997419091052,*,b1,0,5.0,43.0,True,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+3 ОПИСАНИЕ ПРОГРАММЫ ИССЛЕДОВАНИЯ,0.9617610307279494,*,b1,0,4.0,33.0,True,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+4 ПРОГРАММА ИССЛЕДОВАНИЯ,0.9730755547541451,*,b1,0,3.0,24.0,True,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level1,False,0,0,0,-35.45,False,True
+2022,0.4888371408016833,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Justify,False,False,180,1.5,False,BodyText,False,0,0,0,-36,False,True
+1 Особенности разработки frontend-части web-сервисов с точки зрения управления проектом,0.6023689519219186,*,b1,1,10.0,87.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+1 Обзор предметной области,0.6324181280203922,*,b1,0,4.0,26.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+2 Обзор существующих решений,0.6169283459171203,*,b1,0,4.0,28.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+3 Обзор функций модели,0.6539041209246843,*,b1,0,4.0,22.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+2024,0.6631006216211293,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,0,1,False,BodyText,False,0,0,0,0,False,True
+1 Направление исследования,0.8018683322229284,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,24,-35.45,False,True
+2 Выбор целевой аудитории,0.7834191534928786,*,b1,0,4.0,25.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,24,-35.45,False,True
+3 Анализ требований к проектированию приложения,0.8344807352363484,*,b1,0,6.0,47.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,24,-35.45,False,True
+2024,0.9423124324172499,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,True,False,Center,False,False,0,1,False,BodyText,False,0,0,0,0,False,True
+1 Направление исследования,0.5091734967697868,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,False,False,Justify,True,True,14.15,1.5,False,BodyText,False,0,6,18,-21.25,False,True
+2 Источники информации по теме исследования,0.6449970486211908,*,b1,0,6.0,43.0,False,False,.,TitleLevel1,True,False,Justify,True,True,14.15,1.5,False,BodyText,False,0,6,18,-21.25,False,True
+3 Описание исследования,0.6496824207456431,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,True,True,14.15,1.5,False,BodyText,False,0,6,18,-21.25,False,True
+1 Определение цели и задач магистерской диссертации,0.7964473690961895,*,b1,0,7.0,51.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+2 Определение актуальность темы исследования,0.7822925618037835,*,b1,0,5.0,44.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+3 Изучение степени разработанности темы исследования,0.791268004345555,*,b1,0,6.0,52.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+4 Определение новизны и значимости результатов работы,0.791268004345555,*,b1,0,7.0,53.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+5 Определение метода исследования,0.7649756946210905,*,b1,0,4.0,33.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+6 Определение метода оценки достоверности результатов,0.791268004345555,*,b1,0,6.0,53.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+7 План выполнения задач исследования,0.7700054099966366,*,b1,0,5.0,36.0,False,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+2024,0.43766786469316654,-,b1,0,1.0,4.0,True,True,.,TitleLevel1,False,False,Center,False,False,13.5,1.15,False,BodyText,False,0,8,0,0,False,True
+1 Направление исследования,0.414610678098799,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,8,0,-35.4,False,True
+3 Описание исследования,0.43720660404873485,*,b1,0,3.0,23.0,False,False,.,TitleLevel1,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,8,0,-35.4,False,True
+20,0.9872916675880725,-,b1,0,1.0,2.0,True,True,.,TitleLevel1,True,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+1 ОПИСАНИЕ СИСТЕМЫ,0.8404308408259968,*,b1,0,3.0,18.0,True,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-18,False,True
+2 МОДУЛЬ ЛАБОРАТОРИИ,0.7586071017624214,*,b1,0,3.0,20.0,True,False,.,TitleLevel1,True,False,Justify,True,True,18,1.5,False,Level1,False,0,0,12,0,False,True
+3 ОБЗОР АНАЛОГОВ СЕТЕВЫХ СИМУЛЯТОРОВ,0.9091141555599614,*,b1,0,5.0,36.0,True,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-35.45,False,True
+4 ВЫБОР ОПТИМАЛЬНОГО РЕШЕНИЯ,0.9199287951022007,*,b1,0,4.0,28.0,True,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-35.45,False,True
+5 ИНТЕГРАЦИЯ GNS3,0.92921546424691,*,b1,0,3.0,17.0,True,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-35.45,False,True
+6 ДИАГРАММЫ ВЗАИМОДЕЙСТВИЯ,0.9170552323142672,*,b1,0,3.0,26.0,True,False,.,TitleLevel1,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-35.45,False,True
+1 Направление исследования,0.8698394879877538,*,b1,0,3.0,26.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+2 Степень разработанности темы исследования,0.8114367828941184,*,b1,0,5.0,43.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+3 Методологические элементы исследования,0.8128236210226424,*,b1,0,4.0,40.0,False,False,.,TitleLevel1,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+4.1 Направление исследования,0.904040116956297,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0.0,0.0,0.0,-35.25,False,True
+4.3 Методы исследования,0.9087952367745817,*,b2,1,3.0,23.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0.0,0.0,0.0,-35.25,False,True
+4.5 Программа исследования,0.904040116956297,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0.0,0.0,0.0,-35.25,False,True
+4.1 Облачные решения для хранения и обработки данных,0.9239102658481319,*,b2,1,8.0,52.0,False,False,.,TitleLevel2,True,False,Left,True,True,35.4,1.5,False,BodyText,False,0,6.0,8.0,-35.4,False,True
+4.2 Требования к интерфейсу,0.9260927922149613,*,b2,1,4.0,27.0,False,False,.,TitleLevel2,True,False,Left,True,True,35.4,1.5,False,BodyText,False,0,6.0,8.0,-35.4,False,True
+4.3 Проверка на случайность заполнения,0.9112188771533059,*,b2,1,5.0,38.0,False,False,.,TitleLevel2,True,False,Left,True,True,36,1.5,False,BodyText,False,0,0.0,8.0,35.4,False,True
+4.4 Авторизация пользователей,0.9280932674276262,*,b2,1,3.0,29.0,False,False,.,TitleLevel2,True,False,Left,True,True,35.4,1.5,False,BodyText,False,0,6.0,8.0,-35.4,False,True
+2.3 Базовая архитектура облачного сервиса,0.9795595130960297,*,b2,1,5.0,41.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.45,False,True
+2.4 Проектирование структуры баз данных,0.9439922444151244,*,b2,1,5.0,39.0,False,False,.,TitleLevel2,True,False,Justify,False,False,35.45,1.5,False,BodyText,False,0,0.0,0.0,0,False,True
+2.5 Проектирование структуры REST API,0.9439922444151244,*,b2,1,5.0,37.0,False,False,.,TitleLevel2,True,False,Justify,False,False,35.45,1.5,False,BodyText,False,0,0.0,0.0,0,False,True
+3.1 Программа исследования,0.9117588969966568,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0.25,0.0,0.0,-36,False,True
+3.1 Методологии исследования……………………………………………..18,0.9144889034315219,-,b2,2,3.0,49.0,False,False,.,TitleLevel2,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.45,False,True
+3.2 Программа исследования………………………………………………..20,0.9144889034315219,-,b2,2,3.0,48.0,False,False,.,TitleLevel2,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.45,False,True
+3.1 Методологии исследования,0.9838329646917982,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.45,False,True
+3.2 Программа исследования,0.9646836098991426,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.3,False,True
+3.1 Проблемы информационной системы,0.9775380373465911,*,b2,1,4.0,35.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0.0,0.0,-35.4,False,True
+4.1 Функциональные требования,0.9780738370699835,*,b2,1,3.0,29.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0.0,0.0,-35.4,False,True
+4.2 Нефункциональные требования,0.978048627169904,*,b2,1,3.0,31.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0.0,0.0,-35.4,False,True
+4.3 Системные требования,0.9792337230127313,*,b2,1,3.0,24.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0.0,0.0,-35.4,False,True
+4.4 Требования к данным,0.9789337714505584,*,b2,1,4.0,23.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0.0,0.0,-35.4,False,True
+4.5 Бизнес-требования,0.9553789582864894,*,b2,2,2.0,21.0,False,False,.,TitleLevel2,True,False,Justify,True,True,35.4,1.5,False,Level2,False,0,0.0,0.0,0,False,True
+3.1 Методологические исследования,0.9645416802356213,*,b2,1,3.0,33.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,10.0,0.0,-45,False,True
+3.2 Программа исследований,0.9646836098991426,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,10.0,0.0,-45,False,True
+2.1 Обзор сред моделирования компьютерных сетей,0.9385087624711312,*,b2,1,6.0,47.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+2.2 Обзор систем управления контентом,0.9504948383212756,*,b2,1,5.0,37.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+2.3 Обзор технологий разработки клиентской части веб-сервиса,0.9031879786477126,*,b2,2,7.0,60.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+2.4 Интеграция среды моделирования с веб-сервисом,0.9109330952129726,*,b2,2,6.0,49.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+3.1 Методология исследования,0.9530151843080666,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+3.2 План исследования,0.9521459083217493,*,b2,1,3.0,21.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-35.4,False,True
+2.2 Существующие методы и инструменты оптимизации первичного отбора кандидатов,0.9329287494686747,*,b2,1,9.0,78.0,False,False,.,TitleLevel2,True,False,Justify,False,True,0,1.5,False,BodyText,False,0,0.0,0,-35.45,False,True
+2.3 Существующие методы и инструменты оптимизации технического отбора кандидатов,0.9303972429767936,*,b2,1,9.0,80.0,False,False,.,TitleLevel2,True,False,Justify,False,True,0,1.5,False,BodyText,False,0,0.0,0,-35.45,False,True
+1.2 Выводы по разделу,0.9197068904824449,*,b2,1,4.0,21.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+2.5 Модель Prophet,0.9264327931928711,*,b2,1,3.0,18.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+2.7 Модель Facebook Prophet,0.9207392009225983,*,b2,1,4.0,27.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+2.8 Выводы по разделу,0.9197068904824449,*,b2,1,4.0,21.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+3.3 Работа России,0.9242038215288689,*,b2,1,3.0,17.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+2.1 Функциональные требования,0.9928748529889588,*,b2,1,3.0,29.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0.0,2,-35.45,False,True
+2.2 Ролевая модель,0.9927661200042981,*,b2,1,3.0,18.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0.0,2,-35.45,False,True
+2.3 Шаблонизатор,0.9899764236918802,*,b2,1,2.0,16.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0.0,2,-35.45,False,True
+3.1 Методологии исследования,0.9198563378529784,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,True,True,35.4,1.5,False,BodyText,False,0,0.0,0,0,False,True
+3.2 Программа исследования,0.9317825628175627,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,False,False,Justify,True,True,0,1.5,False,BodyText,False,0,0.0,0,-18,False,True
+1.2 Методы оценки цифровой зрелости предприятий,0.9824107600172746,*,b2,1,6.0,47.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,6.0,6,-35.45,False,True
+2.1 Этапы исследования,0.9895065105775748,*,b2,1,3.0,22.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0.0,0,-35.45,False,True
+1.2 Сравнение протоколов,0.9938466350331423,*,b2,1,3.0,24.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+1.3 Выводы,0.9826480888156081,*,b2,1,2.0,10.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.1 Требования к приложению,0.9940140606936092,*,b2,1,4.0,27.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.2 Получение медиапотока,0.9938466350331423,*,b2,1,3.0,25.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.3 Кодирование медиапотока,0.9941798840610782,*,b2,1,3.0,27.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,24,-35.45,False,True
+2.5 Подготовка кадра для отправки,0.9939995416417438,*,b2,1,5.0,33.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.6 Декодирование кадра,0.9938466350331423,*,b2,1,3.0,23.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.7 Сетевое взаимодействие,0.9942653195947556,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.8 Разработка сервера,0.9938466350331423,*,b2,1,3.0,22.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.9 Выводы,0.9826480888156081,*,b2,1,2.0,10.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.7 Вывод,0.9432896691443982,*,b2,1,2.0,9.0,False,False,.,TitleLevel2,True,False,Left,False,True,0,1.5,False,BodyText,False,0,24,36,-35.45,False,True
+1.1 Обзор потенциала и преимуществ использования блокчейна в разрабатываемом проекте,0.9482986453558793,*,b2,1,10.0,84.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+1.2 Обзор существующих решений,0.98043246113263,*,b2,1,4.0,30.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+1.3 Уточнение требований к приложению,0.9764826773086073,*,b2,1,5.0,37.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+1.4 Новизна и значимость предполагаемых результатов работы,0.969475696179312,*,b2,1,7.0,58.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+2.1 Фаза проектирования (2 месяца),0.9600867814752215,*,b2,3,5.0,34.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+2.2 Фаза Разработки (7 месяцев),0.9600593809502518,*,b2,3,5.0,31.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+2.3 Фаза тестирования (2 месяца),0.9600593809502518,*,b2,3,5.0,32.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+2.4 Фаза исправления ошибок (2 месяца),0.9498143854430122,*,b2,3,6.0,38.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35,False,True
+1.1 Цели и задачи,0.9968884474264453,*,b2,1,4.0,17.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.1 Cluster-trace-v2018,0.9923054156974923,*,b2,2,2.0,23.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+2.2 Другие наборы данных,0.9970372679746557,*,b2,1,4.0,24.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+3.1 Виртуализация,0.9944395335557281,*,b2,1,2.0,17.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+3.2 Распределенная система,0.9972239594344109,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+3.3 Планирование ресурсов и задач,0.9971953075994434,*,b2,1,5.0,33.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+4.1 Разработка,0.9926017626484716,*,b2,1,2.0,14.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+4.2 Исследование,0.9938326772105445,*,b2,1,2.0,16.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+4.3 План,0.9913866353230952,*,b2,1,2.0,8.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level2,False,0,0,0,-35.45,False,True
+3.1 Методология исследования,0.9846158196403497,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.05,False,BodyText,False,0,8,0,-35.45,False,True
+3.2 Программа исследования,0.9874672535630235,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Left,False,False,0,1.5,False,BodyText,False,0,8,0,-35.45,False,True
+2.1 Описание информационной системы,0.9901332406974188,*,b2,1,4.0,35.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+2.2 Требования к серверной части,0.9891500903388202,*,b2,1,5.0,32.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+2.3 Архитектура приложения,0.990165429480557,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+2.4 Шаблоны проектирования,0.990165429480557,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+2.5 Нормативно-правовые акты,0.9840906855564773,*,b2,2,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+2.7 HealthKit,0.9828736842644227,*,b2,1,2.0,13.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+2.8 Accessibility,0.9854754510630336,*,b2,1,2.0,17.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+3.1 Методологии исследования,0.9901897887709011,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+3.2 Программа исследования,0.990165429480557,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+3.1 Методологии исследования,0.9810905523192298,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.3,False,BodyText,False,0,12,0,-35.45,False,True
+3.2 Программа исследования,0.9939296642057555,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.3,False,BodyText,False,0,0,0,-35.45,False,True
+1.2 Преимущества геймифицированного изучения языка,0.901901685491325,*,b2,1,5.0,50.0,False,False,.,TitleLevel2,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+3.1 Методологии исследования,0.996608388617938,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+3.2 Программа исследования,0.990165429480557,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+1.1 Направление исследования,0.9543581165773529,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,10,20,-35.4,False,True
+1.2 Выводы по 1 главе,0.9521205749882662,*,b2,1,5.0,21.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,10,20,-35.4,False,True
+2.1 Аналитический обзор литературы,0.9511042185840137,*,b2,1,4.0,34.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,10,20,-35.4,False,True
+2.2 Выводы по 2 главе,0.9521205749882662,*,b2,1,5.0,21.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,10,20,-35.4,False,True
+3.1 Методология исследования,0.9543581165773529,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,10,20,-35.4,False,True
+3.2 План исследования,0.9536561700237234,*,b2,1,3.0,21.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,10,20,-35.4,False,True
+3.3 Выводы по 3 главе,0.9521205749882662,*,b2,1,5.0,21.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,10,20,-35.4,False,True
+1.1 Обзор предметной области. Психолингвистика,0.909307667898166,*,b2,1,5.0,46.0,False,False,.,TitleLevel2,True,False,Justify,True,True,14.15,1.5,False,BodyText,False,-30.35,0,0,-42.8,False,True
+1.3 Обзор предметной области. Метапрограммы,0.909307667898166,*,b2,1,5.0,43.0,False,False,.,TitleLevel2,True,False,Justify,True,True,14.15,1.5,False,BodyText,False,-30.35,0,0,-42.8,False,True
+5.1 Что необходимо для создания собственного сайта,0.9730955608157401,*,b2,1,7.0,50.0,False,False,.,TitleLevel2,True,False,Justify,False,False,36,1.5,True,BodyText,False,0,0,0,0,False,True
+1.1 Существующие методы прогнозирования,0.9783481836185696,*,b2,1,4.0,39.0,False,False,.,TitleLevel2,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+1.2 Методы прогнозирования в сфере обслуживания,0.9803282868784586,*,b2,1,6.0,47.0,False,False,.,TitleLevel2,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+1.3 Выбранные к изучению методы,0.9699768952630168,*,b2,1,5.0,31.0,False,False,.,TitleLevel2,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+3.1 Предобработка данных,0.9700354231660056,*,b2,1,3.0,24.0,False,False,.,TitleLevel2,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+3.2 Извлечение признаков,0.9700354231660056,*,b2,1,3.0,24.0,False,False,.,TitleLevel2,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+3.3 Форматирование данных для модели,0.9736431424041317,*,b2,1,5.0,36.0,False,False,.,TitleLevel2,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+2.1 Базы данных по принципу «ключ — значение» (key-value store),0.9009700832161348,*,b2,6,10.0,63.0,False,False,.,TitleLevel2,False,False,Justify,True,True,0,1.5,False,BodyText,False,0,6,18,-36,False,True
+2.2 Колоночные базы данных (column family store),0.952523191892042,*,b2,3,7.0,48.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,6,18,-36,False,True
+2.3 Документо ориентированные базы данных,0.9759288898272256,*,b2,1,5.0,41.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,6,18,-36,False,True
+2.4 Графовые базы данных (graph store),0.9512612089426503,*,b2,3,6.0,38.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,6,18,-36,False,True
+3.1 Этапы моделирования,0.9577273012341863,*,b2,1,3.0,23.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.15,False,BodyText,False,0,6,18,-36,False,True
+1.1 Определение целей и задач проекта,0.982966730422959,*,b2,1,6.0,37.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+1.2 Планирование и организация работы,0.9859873624918799,*,b2,1,5.0,37.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+1.3 Управление разработкой,0.9864983647093357,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+1.4 Финальные этапы разработки,0.988299846943206,*,b2,1,4.0,30.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+1.5 Система поддержки принятия решений,0.9862715359550127,*,b2,1,5.0,38.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+1.1 Искусственный интеллект в образовании,0.919772435535626,*,b2,1,5.0,41.0,False,False,.,TitleLevel2,True,False,Justify,False,False,35.4,1.5,False,BodyText,False,0.25,0,0,0,False,True
+1.2 Чат-боты и нейросети,0.9136723126687915,*,b2,2,4.0,24.0,False,False,.,TitleLevel2,True,False,Justify,False,False,35.4,1.5,False,BodyText,False,0.25,0,0,0,False,True
+1.3 Персонализированное обучение,0.9404907592305441,*,b2,1,3.0,32.0,False,False,.,TitleLevel2,True,False,Justify,False,False,35.4,1.5,False,BodyText,False,0.25,0,0,0,False,True
+1.4 Автоматизация оценивания и обратной связи,0.9007707081388807,*,b2,1,6.0,45.0,False,False,.,TitleLevel2,True,False,Justify,False,False,35.4,1.5,False,BodyText,False,0.25,0,0,0,False,True
+3.1 Расширение возможностей обучения,0.9003853507878392,*,b2,1,4.0,36.0,False,False,.,TitleLevel2,True,False,Justify,True,True,35.45,1.5,False,BodyText,False,0.25,0,0,0.55,False,True
+3.2 Мгновенный доступ к информации,0.9129566142448897,*,b2,1,5.0,34.0,False,False,.,TitleLevel2,True,False,Justify,True,True,36,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+3.3  Поддержка по требованию,0.9066559836529129,*,b2,1,5.0,28.0,False,False,.,TitleLevel2,True,False,Justify,True,True,36,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+3.4 Последовательность и точность,0.9227279753799119,*,b2,1,4.0,33.0,False,False,.,TitleLevel2,True,False,Justify,True,True,36,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+3.5 Адаптивное обучение,0.9123342935245027,*,b2,1,3.0,23.0,False,False,.,TitleLevel2,True,False,Justify,True,True,36,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+3.6 Многоязычная поддержка,0.9144818000749104,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,True,True,36,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+3.7 Расширение доступа,0.9123342935245027,*,b2,1,3.0,22.0,False,False,.,TitleLevel2,True,False,Justify,True,True,36,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+3.8 Автоматизация административных задач,0.9259214414787461,*,b2,1,4.0,40.0,False,False,.,TitleLevel2,True,False,Justify,True,True,36,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+3.9 Персонализированное обучение,0.9222630158857171,*,b2,1,3.0,32.0,False,False,.,TitleLevel2,True,False,Justify,True,True,36,1.5,False,BodyText,False,0.25,0,0,-35.4,False,True
+3.1 Требования по проектированию интерфейсов для детей,0.9929962926415943,*,b2,1,7.0,54.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.3,False,Level3,False,0,0,0,-35.45,False,True
+3.2 Обзор новейших технологий в образовании,0.9932860527949597,*,b2,1,6.0,43.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.3,False,Level3,False,0,0,0,-35.45,False,True
+3.3 О методе исследования,0.9938300140754555,*,b2,1,4.0,25.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.3,False,Level3,False,0,0,0,-35.45,False,True
+4.1 Методологии исследования,0.9686337628476502,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,False,False,35.45,1.3,False,BodyText,False,0,0,0,0,False,True
+1.1 Цель магистерской диссертации,0.9951797095366754,*,b2,1,4.0,33.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+1.2 Задач магистерской диссертации,0.9950682228372044,*,b2,1,4.0,34.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+4.1 Значимость предполагаемых результатов работы,0.9944873861421716,*,b2,1,5.0,48.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+4.2 Новизна предполагаемых результатов работы,0.9946160674626907,*,b2,1,5.0,45.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+5.1 Метод обнаружения и сегментирования контуров карт,0.992768068351146,*,b2,1,7.0,53.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+5.2 Метод идентификация карт,0.9942761005907741,*,b2,1,4.0,28.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+5.3 Вид дислокация приложения,0.995098493236327,*,b2,1,4.0,29.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+6.1 Метод оценки моделей идентификации карт,0.9932795170688271,*,b2,1,6.0,43.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+6.2 Метод оценки веб-приложения,0.9919983273707983,*,b2,2,4.0,31.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+3.1 Методологии исследования ................................................................12,0.9195037338843443,-,b2,1,4.0,95.0,False,False,.,TitleLevel2,False,False,Justify,False,False,0,2,False,BodyText,False,0,0,0,-36,False,True
+3.2 Программа исследования.....................................................................13,0.9265256470848704,-,b2,1,3.0,97.0,False,False,.,TitleLevel2,False,False,Justify,False,False,0,2,False,BodyText,False,0,0,0,-36,False,True
+3.1 Методологии исследования,0.9848220574954455,*,b2,1,3.0,28.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,8,0,-35.4,False,True
+3.2 Программа исследования,0.9854878595219967,*,b2,1,3.0,26.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,8,0,-35.4,False,True
+3.3 Положения магистерской диссертации,0.9885790866715428,*,b2,1,4.0,38.0,False,False,.,TitleLevel2,True,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+2.1 Функциональные требования,0.9538499767055939,*,b2,1,3.0,29.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-35.45,False,True
+2.2 Интеграционные требования,0.9538499767055939,*,b2,1,3.0,29.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-35.45,False,True
+3.1 Cisco packet tracer,0.942857417495442,*,b2,1,4.0,23.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-35.45,False,True
+3.2 Graphical network simulator - GNS3,0.935955789835143,*,b2,2,6.0,38.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-35.45,False,True
+3.3 Practice network laboratory - PNETLAB,0.935955789835143,*,b2,2,6.0,41.0,False,False,.,TitleLevel2,True,False,Justify,True,True,0,1.5,False,Level1,False,0,0,12,-35.45,False,True
+1.1 Описание предметной области,0.9646004354479188,*,b2,1,4.0,31.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+1.2 Актуальность темы исследования,0.9640362411482021,*,b2,1,4.0,34.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+2.1 Проблемы информационной безопасности автоматизированных систем управления технологическим процессом,0.9051176322920332,*,b2,1,9.0,103.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+2.3 Решение ViPNet SIES,0.9642152828728427,*,b2,1,4.0,23.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+3.1 Цель и задачи магистерской диссертации,0.9484724341206221,*,b2,1,6.0,42.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+3.2 Новизна и значимость предполагаемых результатов работы,0.9391457154674641,*,b2,1,7.0,58.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+3.3 Методы и программа исследования,0.9617100644471787,*,b2,1,5.0,35.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+3.4 Способ доказательства степени достоверности полученных результатов,0.9348856682275893,*,b2,1,7.0,70.0,False,False,.,TitleLevel2,True,False,Left,True,True,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+1.1.1 Временные ряды,0.49349426558148307,*,b3,1,3.0,20.0,False,False,.,TitleLevel3,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+1.1.2 Методы машинного обучения,0.4768992325712917,*,b3,1,4.0,31.0,False,False,.,TitleLevel3,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+1.1.3 Нейронные сети,0.49349426558148307,*,b3,1,3.0,20.0,False,False,.,TitleLevel3,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+1.3.1 Временные ряды,0.49349426558148307,*,b3,1,3.0,20.0,False,False,.,TitleLevel3,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+1.3.2 Методы машинного обучения,0.4768992325712917,*,b3,1,4.0,31.0,False,False,.,TitleLevel3,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+1.3.3 Нейронные сети,0.49349426558148307,*,b3,1,3.0,20.0,False,False,.,TitleLevel3,True,False,Left,True,True,35.45,1.5,False,Level2,False,0,0,0,0,False,True
+Рисунок 1 – Дизайн опросника,0.9515658731151727,*,h1,1,5.0,28.0,False,False,.,Рисунок,False,False,Center,False,False,18,1.5,False,BodyText,False,0,0.0,0.0,-17.4,False,True
+Рисунок 2 – Схема передачи запроса на заполнение анкеты,0.9905730740920521,*,h1,1,9.0,55.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0.0,-35.4,False,True
+Рисунок 1 - Вид дизайна главной страницы облачного сервиса,0.9752967731552239,*,h1,1,9.0,58.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,0.0,0.0,0,False,True
+Рисунок 2 - Вид дизайна страницы оборудования облачного сервиса,0.9754938281641788,*,h1,1,9.0,63.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,0.0,0.0,0,False,True
+Рисунок 3 - Вид схемы взаимодействия основных структурных элементов,0.9785562525840374,*,h1,1,9.0,67.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,12.0,0.0,0,False,True
+Рисунок 4 - Вид архитектуры облачного сервиса,0.9671938742658236,*,h1,1,7.0,45.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10.0,0.0,0,False,True
+Рисунок 5 - Вид базовой структуры базы данных PostgreSQL,0.976045479488574,*,h1,1,9.0,56.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10.0,0.0,0,False,True
+Рисунок 3.1 – Схематическое представление принципов чистой архитектуры в общем случае [15],0.9650369630217787,*,h1,4,12.0,90.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,14.0,0.0,0,False,True
+Рисунок 3.2 – Схематическое представление принципов чистой архитектуры для API [16],0.9691603005463748,*,h1,4,11.0,83.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,14.0,0.0,0,False,True
+Рисунок 3.3 – Схематическое представление чистой архитектуру в случае мобильного приложения [19],0.9635631441481713,*,h1,4,12.0,96.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,14.0,0.0,0,False,True
+Рисунок 3.4 – Общее представление принципов архитектурного подхода MVVM [20],0.9739842850936,*,h1,4,10.0,76.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,14.0,0.0,0,False,True
+Рисунок 3.5 – Схематическое представление MVVM с использованием механизма состояний и событий,0.9641036234480341,*,h1,2,12.0,93.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,14.0,0.0,0,False,True
+"Рисунок 1 – Описание структуры таблицы T_TREATMENT, содержащей информацию о проведенном лечении",0.982581356628857,*,h1,2,12.0,95.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,True,BodyText,False,0,0.0,0.0,-35.4,False,True
+Рисунок 2 – Схема клиент-серверной архитектуры применимо к разработанной системе,0.9817335847330515,*,h1,2,10.0,80.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,True,BodyText,False,0,0.0,0.0,0,False,True
+Рисунок 3 – Список запущенных контейнеров в веб-приложении Portainer,0.9848776051457653,*,h1,2,9.0,68.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,True,BodyText,False,0,0.0,0.0,0,False,True
+Рисунок 4 – Документация сервиса medadmin в формате swagger,0.982555911907943,*,h1,1,9.0,59.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,True,BodyText,False,0,0.0,0.0,0,False,True
+Рисунок 5 – Список пакетов серверного приложения backend,0.981338266009344,*,h1,1,8.0,56.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,True,BodyText,False,0,0.0,0.0,0,False,True
+Рисунок 6 – Диаграмма компонентов для пакетов серверного приложения backend,0.9826895312162319,*,h1,1,10.0,75.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,True,BodyText,False,0,0.0,0.0,0,False,True
+Рисунок 2 – Разработка и управление требованиями,0.9823358760771113,*,h1,1,7.0,48.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,True,BodyText,False,0,0.0,0.0,-35.45,False,True
+Рисунок 1 − Пример использования метода скользящего среднего на Python,0.9970426576753512,*,h1,0,10.0,70.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 2 − Пример использования метода экспоненциального сглаживания на Python,0.9965874554426751,*,h1,0,10.0,79.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 3 − Пример использования модели ARIMA на Python,0.997122657763959,*,h1,0,9.0,55.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 4 − Пример использования модели SARIMA на Python,0.997122657763959,*,h1,0,9.0,56.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 5 − Пример использования модели Prophet на Python,0.997122657763959,*,h1,0,9.0,57.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 6 − Пример использования модели LSTM на Python,0.9968946392574688,*,h1,0,9.0,54.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 7 − Пример использования модели Facebook Prophet на Python,0.9971290043047843,*,h1,0,10.0,66.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 1 – Основные 10 причин смертности в мире,0.9994114304009941,*,h1,1,9.0,48.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 2 – Аневризма аорты,0.999023971506611,*,h1,1,5.0,27.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 3 – Пример результатов МСКТ,0.9993626274369679,*,h1,1,6.0,35.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 4 – Карта приложения,0.9990365000461251,*,h1,1,5.0,28.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Рисунок 1 – Влияние цифровизации на различные отрасли.,0.9980715631996341,*,h1,2,8.0,54.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,6.0,0,0,False,False
+Рисунок 2 – TPRL-матрица для оценки зрелости технологии.,0.9978944383280147,*,h1,3,8.0,56.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,6.0,0,0,False,False
+Рисунок 3 – Опросник  Digital Maturity Model.,0.9990384775724693,*,h1,2,8.0,45.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,6.0,0,-35.45,False,False
+Рисунок 4 – Оценка цифровой зрелости предприятия по результатам опроса Digital Maturity Model.,0.9988562234157481,*,h1,2,13.0,94.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,6.0,0,-35.45,False,False
+Рисунок 5 – Домены для оценивания предприятия по методу ODMM.,0.9992270011680611,*,h1,2,10.0,61.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,6.0,0,-35.45,False,False
+"Рисунок 6 – Пример деления домена модели ODMM на поддомены, элементы и метрики.",0.9988223967700852,*,h1,3,13.0,79.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,6.0,0,-35.45,False,False
+Рисунок 7 – Ключевые блоки оценивания по методологии АНО «ЦПУР».,0.9979213710564112,*,h1,4,10.0,64.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,False
+Рисунок 8 – Пример оценки блока по методологии АНО «ЦПУР».,0.9978361581421403,*,h1,4,10.0,58.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,False
+Рисунок 1.1 – Структура протокола WebRTC [2],0.9930042844879724,*,h1,4,7.0,44.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.5,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 1.2 – Установление соединения с использованием WebRTC [1],0.9933913577038959,*,h1,4,9.0,65.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.5,False,BodyText,False,3.15,14.65,0,0.5,False,True
+Рисунок 1.3 – Поддержка WebRTC,0.9863584834335737,*,h1,2,5.0,30.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.5,False,BodyText,False,3.15,0,0,0.5,False,True
+Рисунок 1.4 – Структура протокола WebSocket [2],0.9961383914954038,*,h1,4,7.0,47.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.5,False,BodyText,False,0,19.45,0,0.5,False,True
+Рисунок 1.4 – Установка соединения с использованием WebSocket [5],0.996485893090997,*,h1,4,9.0,65.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.5,False,BodyText,False,0,14.65,0,0.5,False,True
+Рисунок 1.5 – Поддержка протокола WebSocket,0.9961126558422112,*,h1,2,6.0,43.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.5,False,BodyText,False,0,14.65,0,0.5,False,True
+Рисунок 1.6 – Поддержка WebTransport [16],0.9853354855719887,*,h1,4,6.0,41.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,0,14.65,0,0.5,False,True
+Рисунок 1.7 – Структура WebTransport,0.9808878827063819,*,h1,2,5.0,36.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,0,14.65,0,0.5,False,True
+Рисунок 1.7 – Кадр различных потоков WebTransport[13],0.9863984934843667,*,h1,4,7.0,53.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,0,14.65,0,0.5,False,True
+Рисунок 2.1 – Поддержка getUserMedia [12],0.9806805965202774,*,h1,4,6.0,41.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.2 – Поддержка getDisplayMedia [12],0.9797377362487749,*,h1,4,6.0,44.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.3 – Поддержка WebCodecs: VideoEncoder [11],0.9789174082394623,*,h1,5,7.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.4 – Конфигурация кодирующего и декодирующего интерфейсов,0.9802700920721471,*,h1,2,8.0,66.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.5 – Поддержка MediaStreamTrackProcessor [10],0.9792770981044892,*,h1,4,6.0,54.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.6 – Поддержка MediaStreamTrackGenerator,0.9773097265137245,*,h1,2,5.0,49.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.7 – Кодирование потока с данными.,0.9380953502365841,*,h1,2,7.0,43.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,False
+Рисунок 2.8 – Отправка закодированного кадра,0.9837268046514344,*,h1,2,6.0,44.0,False,False,.,Рисунок,False,False,Center,False,False,1.85,1.10416666666667,False,BodyText,False,3.15,18.15,0,-35.45,False,True
+Рисунок 2.9 – Структура сообщения с кадром,0.9817195858321592,*,h1,2,7.0,42.0,False,False,.,Рисунок,False,False,Center,False,False,1.85,1.10416666666667,False,BodyText,False,3.15,18.15,0,0,False,True
+Рисунок 2.9 – Декодирование кадра,0.9759400579351514,*,h1,2,5.0,33.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.10 – Поддержка технологии VideoDecoder,0.980577870503199,*,h1,2,6.0,48.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.11 – Чтение и буферизация кадров,0.9817195858321592,*,h1,2,7.0,42.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.12 – Функция для установления соединения на стороне клиента,0.9812723433129551,*,h1,2,10.0,69.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рисунок 2.13 – Вызов функции с аргументами,0.9817195858321592,*,h1,2,7.0,42.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+Рис.2.15. Создание инстанса сервера.,0.9063085007427507,*,h1,1,4.0,36.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,False
+Рисунок 2.16 – Создание обработчика на сервере,0.9806259271530607,*,h1,2,7.0,46.0,False,False,.,Рисунок,False,False,Center,False,False,1.35,1.10416666666667,False,BodyText,False,3.15,18.15,0,0.5,False,True
+"Рисунок 1. Отличия MVC, MVP и MVVM",0.9980095970757766,*,h1,2,7.0,34.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,12,0,0,False,True
+Рисунок 2. Архитектурный подход VIPER,0.9977756278898295,*,h1,1,5.0,37.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,12,0,0,False,True
+Рисунок 3. Архитектурный подход VIP,0.9975621142964146,*,h1,1,5.0,35.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,12,0,0,False,True
+Рисунок 4. Архитектурный подход TCA,0.9975621142964146,*,h1,1,5.0,35.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,12,0,0,False,True
+"Рисунок 1 – Российский рынок интернет-торговли, 2010-2022гг.",0.9085279011461843,*,h1,4,7.0,60.0,False,False,.,Рисунок,False,False,Justify,False,False,0,1.5,False,BodyText,False,-0.1,0,0,-35.45,False,False
+Рисунок 2 – Классификации компаний электронной коммерции,0.9557547812207069,*,h1,1,7.0,56.0,False,False,.,Рисунок,False,False,Justify,False,False,0,1.5,False,BodyText,False,-0.1,0,0,-35.45,False,True
+Рисунок 1 — Архитектура блокчейна,0.9978304427031005,*,h1,0,5.0,33.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+Рисунок 1 – DAG для работы 1,0.9977949488729194,*,h1,1,7.0,28.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 2 – План для работы 1,0.9979407677655425,*,h1,1,7.0,29.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 3 – DAG для работы 2,0.9977949488729194,*,h1,1,7.0,28.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 4 – План для работы 2,0.9979407677655425,*,h1,1,7.0,29.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 5 – Архитектура кластеров,0.9975739242868332,*,h1,1,5.0,33.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 6 – Архитектура Xen и KVM,0.9980496024643836,*,h1,1,7.0,33.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 7 – Работающая виртуальная машина,0.9982772718996921,*,h1,1,6.0,41.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 1 – Диаграмма 1 опроса иностранных студентов,0.9985786389974158,*,h1,1,8.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 2 – Диаграмма 2 опроса иностранных студентов,0.9985786389974158,*,h1,1,8.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 3 – Диаграмма 3 опроса иностранных студентов,0.9985786389974158,*,h1,1,8.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 4 – Диаграмма 4 опроса иностранных студентов,0.9985786389974158,*,h1,1,8.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 5 –  Диаграмма 5 опроса иностранных студентов,0.9986978696140221,*,h1,1,9.0,53.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 6 – Диаграмма 6 опроса иностранных студентов,0.9985786389974158,*,h1,1,8.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 7 – Диаграмма 7 опроса иностранных студентов,0.9985786389974158,*,h1,1,8.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 8 – Диаграмма 8 опроса иностранных студентов,0.9985786389974158,*,h1,1,8.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 9 – Интерфейс сервиса “Главред”,0.9988119214236633,*,h1,1,6.0,39.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 10 – Интерфейс ввода текста в “Текстометре”,0.9986268057271233,*,h1,1,8.0,51.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 11 – Результат анализа в “Текстометре”,0.9987895197953841,*,h1,1,7.0,46.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 12 – Интерфейс сервиса “ReText.AI”,0.9989190542617741,*,h1,2,6.0,42.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 13 – Интерфейс ввода текста в “Простым языком”,0.9986202161803834,*,h1,1,9.0,54.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 14 – Результат анализа в “Простым языком”,0.9986268057271233,*,h1,1,8.0,49.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 15 – Интерфейс ввода текста в “ISTIO”,0.9987172494827985,*,h1,1,8.0,45.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 16 – Результат анализа в “ISTIO”,0.9988119214236633,*,h1,1,7.0,40.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 17 – Диаграмма деятельности инструмента адаптации учебных материалов,0.998194008675243,*,h1,1,9.0,76.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 1 – Распределение приложений в AppStore по основным функциям,0.9985116861218604,*,h1,1,10.0,68.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 2 – Время десериализации JSON-объекта,0.9989186389090632,*,h1,2,6.0,45.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 3 – Структура MVVM,0.9916409775697144,*,h1,1,5.0,26.0,False,False,.,Рисунок,True,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 4 – Структура шаблона VIPER,0.9988914523352037,*,h1,1,6.0,35.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+"Рисунок   Пример замены слов русского языка (слева – в начале книги, справа – в конце)",0.998627724845482,*,h1,4,17.0,87.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10,0,0,False,True
+Рисунок   Пример реализации методики в комиксах школы английского языка онлайн Skyeng,0.9959701580421593,*,h1,0,13.0,86.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10,0,0,False,True
+Рисунок   Пример онлайн-варианта книги с параллельным переводом,0.9990790472921405,*,h1,1,9.0,64.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10,0,0,False,True
+Рисунок   Пример книги по методу И.Франка,0.9991802675637165,*,h1,1,8.0,42.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10,0,0,False,True
+Рисунок   Примеры реализации приложений для расширения словарного запаса при чтении произведений,0.9955750274643211,*,h1,0,13.0,97.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10,0,0,False,True
+Рисунок  - Схема клиент-серверного взаимодействия в архитектуре REST API,0.9990124821485401,*,h1,1,9.0,72.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10,0,0,False,True
+"Рисунок  – Технологичность, новизна проекта",0.999327445565577,*,h1,2,6.0,43.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10,0,0,False,True
+Рисунок  - Модель ценностного предложения Остервальдера,0.9992823766394487,*,h1,1,7.0,55.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,10,0,0,False,True
+Рис. 1 Псевдокод операции алгоритма Compare-and-Swap,0.9989788826775622,*,h1,2,6.0,52.0,False,False,.,Рисунок,True,True,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рис. 2 Псевдокод операции алгоритма Restricted Double-Compare Single-Swap,0.9989419955710709,*,h1,2,8.0,73.0,False,False,.,Рисунок,True,True,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 1  Скриншот магазина Лабиринт,0.9973917923695138,*,h1,0,6.0,38.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 2  Скриншот магазина Букинист,0.9973917923695138,*,h1,0,6.0,38.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 3  Скриншот магазина Читай город,0.9973917923695138,*,h1,0,7.0,41.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 4,0.99053200835891,*,h1,0,2.0,9.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 5,0.99053200835891,*,h1,0,2.0,9.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 6,0.99053200835891,*,h1,0,2.0,9.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 7,0.9745168633142586,*,h1,0,2.0,9.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,True,BodyText,False,0,0,0,0,False,True
+Рисунок 8,0.99053200835891,*,h1,0,2.0,9.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 9  Структура интернет-магазина,0.9865451024745326,*,h1,1,5.0,39.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,5,5,0,False,True
+Рисунок 1 – Пример хранения данных в Key-Value база данных.,0.9512901875292009,*,h1,3,10.0,59.0,False,False,.,Рисунок,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,False
+Рисунок 2  – Отличие колоночной БД от реляционной.,0.905377903888053,*,h1,2,9.0,50.0,False,False,.,Рисунок,False,False,Justify,False,False,36,1.5,False,BodyText,False,0,0,0,-36,False,False
+Рисунок 3 – Пример запроса к БД ClickHouse,0.9771090466425366,*,h1,1,8.0,42.0,False,False,.,Рисунок,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+Рисунок 4  – Изображение схемы данных в MongoDB,0.9783257594116691,*,h1,1,9.0,47.0,False,False,.,Рисунок,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+Рисунок 5  –  Пример запроса к Neo4j и изображение модели данных,0.986724978879743,*,h1,1,13.0,64.0,False,False,.,Рисунок,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,-36,False,True
+Рисунок 6 –  Концептуальная модель данных,0.9554306611078729,*,h1,1,7.0,41.0,False,False,.,Рисунок,False,False,Justify,False,False,36,1.5,False,BodyText,False,0,0,0,-36,False,True
+"Рисунок 1 – SSR, SSG, SPA",0.9978820974129731,*,h1,2,6.0,25.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 2 – Процент использования frontend-библиотек,0.9982471002379778,*,h1,2,6.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 3 – Производительность фреймворков,0.9979789228631669,*,h1,1,5.0,42.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 4 – Сборщики веб приложений,0.9978980408697491,*,h1,1,6.0,35.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+Рисунок 5 – Концепт архитектуры “Vertical Slices”,0.9982914792314292,*,h1,1,7.0,49.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 6 – Концепт архитектуры “Clean architecture”,0.998285200400277,*,h1,1,7.0,52.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 7 – Концепт архитектуры “Clean architecture” во frontend-приложениях,0.9973877305080461,*,h1,2,9.0,76.0,False,False,.,Рисунок,False,False,Center,False,False,0,1,False,BodyText,False,0,8,0,0,False,True
+Рисунок 1 – Карты МТГ с разных языков,0.9987511640824432,*,h1,1,8.0,37.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 2 – Размер карты МТГ,0.997315799239084,*,h1,1,6.0,28.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,False,True
+Рисунок 3 – Карточки в разных состояниях,0.9985507308507267,*,h1,1,7.0,40.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,8,0,-35.45,False,True
+Рисунок 4 – Сайт топдек,0.9987246754882229,*,h1,1,5.0,23.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+"Рисунок 5 - Изображения, содержащие МТГ карт на столе из сайта топдека",0.9984615788433152,*,h1,2,12.0,70.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 6 – Интерфейс python приложения LabelMe,0.9987895197953841,*,h1,1,7.0,47.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 7 – API сайта scryfall,0.998740217867951,*,h1,1,6.0,30.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,8,0,0,False,True
+Рисунок 8 - Пример исходного изображения карты МТГ из сайта scryfall,0.9984952254628925,*,h1,1,11.0,68.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 1 − Система управления проектами,0.9972070980346616,*,h1,0,6.0,40.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,8,0,-35.4,False,True
+Рисунок 2 − Интерфейс системы,0.9935513003191068,*,h1,0,5.0,29.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 3 − Интерфейс системы,0.9935513003191068,*,h1,0,5.0,29.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 4 − Интерфейс системы,0.9935513003191068,*,h1,0,5.0,29.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 5 − Код для антиплагиата,0.9793343955149382,*,h1,0,6.0,32.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+Рисунок 6 − Код для антиплагиата,0.9793343955149382,*,h1,0,6.0,32.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+Рисунок 7 − Код для антиплагиата,0.9793343955149382,*,h1,0,6.0,32.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+Рисунок 1 - Use-case: диаграмма пользователя.,0.9989213725998769,*,h1,3,6.0,45.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,False,False
+Рисунок 2 – Use-case: диаграмма преподавателя/администратора.,0.9991293823348815,*,h1,5,6.0,61.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.45,False,False
+Рисунок 3 - Структурная схема проекта.,0.998123340786905,*,h1,2,6.0,38.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,False
+Рисунок 4 – Симуляция работы сети в cisco packet tracer,0.9991681698915609,*,h1,1,10.0,55.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+Рисунок 5 - Интерфейс командной строки,0.9992703827275288,*,h1,1,6.0,38.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,-35.4,False,True
+Рисунок 6 - Пример эмулируемых устройств,0.9982772718996921,*,h1,1,6.0,40.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 7 - Сеть в режиме симуляции,0.9981309533365647,*,h1,1,7.0,35.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 8 - Симуляция работы сети в GNS3,0.9982641636188955,*,h1,1,8.0,40.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 9 - Интерфейс командной строки,0.9982772718996921,*,h1,1,6.0,38.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 10 – Стандартный набор эмулируемых устройств в GNS3,0.9982226604915038,*,h1,1,9.0,59.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 11 - Опция установки сторонних устройств,0.9982914792314292,*,h1,1,7.0,48.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 12 - В GNS3 импортированы образы роутеров cisco,0.99828306904829,*,h1,1,9.0,55.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 13 – API Взаимодействия с устройствами,0.9983057120567015,*,h1,1,7.0,46.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 14 - Интерфейс лаборатории PNETLab,0.9983185428501645,*,h1,1,6.0,42.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 15 - Отладка узлов сети,0.9980496024643836,*,h1,1,6.0,31.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 16 - Встроенный модуль wireshark,0.9982772718996921,*,h1,1,6.0,40.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 17 - Список доступных устройств в PNETLab по умолчанию,0.9981183231493365,*,h1,1,10.0,62.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 18 - Пример доступных образов для установки в PNETLab,0.9981183231493365,*,h1,1,10.0,61.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 19 - Сравнительная характеристика симуляторов сетей,0.9982009392225863,*,h1,1,7.0,59.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 20 - Эмулируемая сеть,0.9876093482719699,*,h1,1,5.0,29.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+Рисунок 21 - Результат работы скрипта,0.9908938398936042,*,h1,1,6.0,37.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+Рисунок 22 – Диаграмма последовательности выполнения ЛР,0.9982617431131443,*,h1,1,7.0,55.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 23 - Диаграмма развёртывания Web-сервиса,0.9982914792314292,*,h1,1,6.0,48.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Рисунок 1 — Потоки данных АСУ ТП при использовании ViPNet SIES,0.9972386945553658,*,h1,0,11.0,62.0,False,False,.,Рисунок,False,False,Center,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 1 – Сравнительная оценка инструментов оптимизации найма,0.9942018548715466,*,f1,1,8.0,63.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0.0,0,0,False,True
+Таблица 1 – Основные составляющие общей целевой архитектуры ИТ,0.9990064947332192,*,f1,1,9.0,62.0,False,False,.,Таблица,False,False,Left,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 1 — Сравнение централизованного и децентрализованного подхода хранения данных в контексте рассматриваемой задачи,0.9800737578766994,*,f1,0,14.0,120.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 2 — Сравнение традиционных скриптов и смарт-контрактов в контексте рассматриваемой задачи,0.992099529463561,*,f1,1,12.0,97.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 1 – Введение в набор данных cluster-trace-v2018,0.99045966617613,*,f1,2,8.0,55.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 2 – Схема machine_meta.csv,0.9419332153490226,*,f1,2,5.0,34.0,False,False,.,Таблица,False,False,Left,False,False,0,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+Таблица 3 – Схема machine_usage.csv,0.9419332153490226,*,f1,2,5.0,35.0,False,False,.,Таблица,False,False,Left,False,False,0,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+Таблица 4 – Схема container_meta.csv,0.940996110954962,*,f1,2,5.0,36.0,False,False,.,Таблица,False,False,Left,False,False,0,1.07916666666667,False,BodyText,False,0,0,0,0,False,True
+Таблица 5 – Схема container_usage.csv,0.9502531487319802,*,f1,2,5.0,37.0,False,False,.,Таблица,False,False,Left,False,False,0,1.07916666666667,False,BodyText,False,0,8,0,0,False,True
+Таблица 6 – Схема batch_task.csv,0.9338129915311375,*,f1,2,5.0,32.0,False,False,.,Таблица,False,False,Left,False,False,0,1.07916666666667,False,BodyText,False,0,0,0,0,False,True
+Таблица 7 – Схема batch_ instance.csv,0.9529541298736744,*,f1,2,6.0,37.0,False,False,.,Таблица,False,False,Left,False,False,0,1.07916666666667,False,BodyText,False,0,0,0,0,False,True
+Таблица 8 – Различия между Xen и KVM,0.9853230156034738,*,f1,1,8.0,36.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 9 – Стек технологий виртуализации исследования,0.9890030499035164,*,f1,1,7.0,54.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 1 – Сравнительный анализ инструментов работы с текстом,0.9995731773832109,*,f1,1,9.0,62.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 1 – Сравнение архитектурных шаблонов,0.9993068902650173,*,f1,1,5.0,44.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 1 – Сравнение сборщиков,0.9767089814491259,*,f1,1,5.0,31.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 2 – Структура Vertical Slices архитектуры,0.9887863985734506,*,f1,1,7.0,49.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 1 – Сравнение приложения сканирования на рынке,0.9995819685630254,*,f1,1,8.0,54.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 2 – Анализ источников по темы идентификации изображения,0.9995647941495863,*,f1,1,9.0,63.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 3 – Методы сегментации изображения,0.9993971147214471,*,f1,1,6.0,42.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 4 - Методы сравнения изображения,0.9993503974737059,*,f1,1,6.0,40.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+Таблица 5 - Анализ источников по темы сегментации и сравнения  изображения,0.9995315131893602,*,f1,1,12.0,74.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
+"Таблица 6 – Анализ методы, использованные в подобном исследовании для идентификации карт МТГ",0.9994776898631311,*,f1,2,13.0,92.0,False,False,.,Таблица,False,False,Justify,False,False,0,1.5,False,BodyText,False,0,0,0,0,False,True
