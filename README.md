@@ -18,6 +18,8 @@
   ![alt](https://test.teststand.ru/1.png)
 - оптимизированы параметры Catboost с использованием Optuna, оценена значимость гиперпараметров (см. в приложенном final-catboost-optuna.ipynb)
   ![alt](https://test.teststand.ru/3.png)
+  ![alt](https://test.teststand.ru/4.png)
+- определено влияние каждого из параметров для исследуемых классов текстовых элементов документов (SHAP values)
   ![alt](https://test.teststand.ru/2.png)
 - исследованы возможность и целесообразность применения LSTM для определения закономерностей в последовательности классов параграфов (по n-граммам). Результат оказался отрицательным, использование регулярных выражений более оправдано.
 - по результатам исследования в соавторстве написана статья и подготовлен доклад "Document Formatting Automated Control System using LSTM and CatBoost" для международной конференции IMS-2024 (International Workshop Computational Linguistics (CompLing-2024)) Программа конфренции - https://ims.itmo.ru/File/IMS-2024_program.pdf (стр. 28)
